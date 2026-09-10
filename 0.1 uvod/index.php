@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
+    <php>
     echo "toto je bez uvodzoviek";
+    
+    </php>
 </body>
 </html>
