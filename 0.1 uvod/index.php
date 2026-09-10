@@ -7,12 +7,13 @@
 </head>
 <body>
     <?php
-    echo "toto je bez uvodzoviek";
+    echo "toto je echo";
     ?>
     <div>
         <?php
-        echo "<p> "tento kod je vnutro kodu </p> ";
+        echo "toto je echo v div";
+
+        print ("aj toto je moj vypis pomocou print");
         ?>
-    </div>
 </body>
 </html>
