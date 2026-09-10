@@ -6,9 +6,13 @@
     <title>Document</title>
 </head>
 <body>
-    <php>
+    <?php
     echo "toto je bez uvodzoviek";
-    
-    </php>
+    ?>
+    <div>
+        <?php
+        echo "<p> "tento kod je vnutro kodu </p> ";
+        ?>
+    </div>
 </body>
 </html>
