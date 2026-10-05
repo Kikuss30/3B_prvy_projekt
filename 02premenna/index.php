@@ -9,7 +9,19 @@
     <h1>tento web je zameraný na premenné</h1>
 
     <?php
-    echo "ahoj!";
+    cislo;
+
+    echo"<br>";
+    desCislo = 4.2;
+    echo desCislo;
+
+    echo "<br>";
+
+    cislo1 = 4.3;
+    cislo2 = 2.7;
+
+    vysledok =(int)cislo1 + (int)cislo2;
+    echo vysledok;
     ?>
 </body>
 </html>
