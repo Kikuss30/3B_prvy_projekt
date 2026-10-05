@@ -7,5 +7,9 @@
 </head>
 <body>
     <h1>tento web je zameraný na premenné</h1>
+
+    <?php
+    echo "ahoj!";
+    ?>
 </body>
 </html>
