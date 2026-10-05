@@ -8,7 +8,6 @@
 <body>
     <h1>tento web je zameraný na premenné</h1>
 
-    <?php
     $cislo;
 
     echo"<br>";
@@ -24,6 +23,6 @@
     echo $vysledok;
     $text = "toto je môj text";
     echo = $text;
-    ?>
+    
 </body>
 </html>
