@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>tento web je zameraný na premenné</h1>
-
+    <?php
     $cislo;
 
     echo"<br>";
@@ -24,5 +24,10 @@
     $text = "toto je môj text";
     echo = $text;
     
+    echo "<br>";
+    $textCislo = "Toto je moje cislo" . $cislo1;
+    echo $textCislo;
+
+    ?>
 </body>
 </html>
